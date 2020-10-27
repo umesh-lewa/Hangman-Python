@@ -1,3 +1,3 @@
 # Hangman-Python
 
-Hangman Game using Python to be used in CLI
+Hangman Game in Python CLI
